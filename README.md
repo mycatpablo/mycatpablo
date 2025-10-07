@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="400" align="right"/>
+<img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="300" align="right"/>
 
 ### Hello!
 
@@ -41,10 +41,4 @@
   <a href="https://www.linux.org/" target="_blank" >
     <img title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" />
   </a>
-</div>
-
----
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=mycatpablo&locale=en&mode=daily&theme=github-dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>

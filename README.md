@@ -34,3 +34,7 @@
 <a href="https://www.linux.org/" target="_blank" >
     <img align="left" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" />
 </a>
+
+<a href="https://jupyter.org/" target="_blank" >
+    <img align="left" title="Jupyter Notebook" alt="Jupyter Notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="35" />
+</a>
